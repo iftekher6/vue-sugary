@@ -48,16 +48,11 @@ This will start the server, and you can view the application in your browser at 
 
 ### 2. How to Submit
 
-Once you've made your changes, commit them to your forked repository and push the changes to GitHub. Then, create a pull request to the original repository.
+Once you've made your changes, commit them to your forked repository and push the changes to GitHub.
 
-### Pull Request Instructions:
-
-1. Navigate to the original repository on GitHub.
-2. Click on the "Pull Requests" tab.
-3. Select "New Pull Request."
-4. Compare your forked repository's branch with the base repository.
-5. Add a clear and concise title and description for your pull request.
-6. Submit the pull request.
+1. Send an email to career@sugary.me with the link of your forked Github Repository
+2. You will be provided with an ID when the assignment is sent to you.
+3. Write the subject of the Email as follows - "Vue Recruitment Test Submission #YOUR_ID"
 
 ## Conclusion
 
